@@ -16,3 +16,4 @@ rootProject.name = "AndroidX"
 include ':app'
 include ':mvvm_lifecycle'
 include ':mvvm_databinding'
+include ':wellsignx'
