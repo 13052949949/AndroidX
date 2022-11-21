@@ -150,6 +150,7 @@ lifecycle.addObserver(MainViewModel())
 
 ### 1.字段单向数据绑定
 
+
 ### 2.字段双向数据绑定
 
 ### 3.界面事件绑定
